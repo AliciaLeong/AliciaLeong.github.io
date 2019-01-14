@@ -15,10 +15,10 @@ summary: Designed a wearable security alarm system.
 
 In a team of two, we created a wearable security alarm. We used Arduino and MIT App Inventor to implement our design.
 
-Using an IR sensor we were able to calculate the distance of an attacker approximately 4 feet away. If the sensor were to pick up motion the alarm would send a signal to the users phone. An app that was designed by my partner would then imediately call the users emergency contant or set of an alarm on the users phone. 
+Using an IR sensor we were able to calculate the distance of an attacker approximately 4 feet away. If the sensor were to pick up motion, the alarm would send a signal to the users phone. An app that was designed by my partner would then imediately call the users emergency contant or set off an alarm on the users phone. 
 
-My role in the project was to implment the IR sensor and Arduino. Once the sensor detected something a signal would be sent to the app.
-Here is the code that I used to program the Arduino:
+My role in the project was to implment the IR sensor and Arduino. Once the sensor detected an attacker, a signal would be sent to the app.
+Below is the code that I designed to program the Arduino:
 ```c
 //define pins
 int dist_pin = 0;
