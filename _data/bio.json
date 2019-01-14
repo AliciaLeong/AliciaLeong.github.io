@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "alicia-leong",
         "url": "http://linkedin.com/in/alicia-leong-367154178/"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
       }
     ]
   },
@@ -90,31 +80,23 @@
       ]
     }
   ],
-  "volunteer": [
+  "extracurricular": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
+      "club": "Eta Kappa Nu",
+      "website": "http://hknhawaii.weebly.com/",
+      "summary": "An international honor society for electrical and computer engineers.",
     }
   ],
   "awards": [
     {
       "title": "2015 Scholarship Award",
       "date": "2015-05-19",
-      "awarder": "Roosevelt Alumni Foundation",
-      "summary": ""
+      "awarder": "Roosevelt Alumni Foundation"
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Available upon request"
     }
   ]
 }
