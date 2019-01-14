@@ -85,7 +85,12 @@
   ],
   "volunteer": [
     {
-      "club": "Eta Kappa Nu",
+      "organization": "Smart Campus Energy Lab",
+      "posisiont": "Firmware Team",
+      "summary": "Part of a firmware team that programs a network of sensor nodes to collect meteorological data."
+    },
+    {
+      "organization": "Eta Kappa Nu",
       "website": "http://hknhawaii.weebly.com/",
       "summary": "An international honor society for electrical and computer engineers.",
     }
