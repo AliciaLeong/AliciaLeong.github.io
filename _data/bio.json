@@ -29,10 +29,13 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
         "Arduino"
       ]
+    },
+    {
+      "name": "Embedded Systems"
     }
   ],
   "skills": [
