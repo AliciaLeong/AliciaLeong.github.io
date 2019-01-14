@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: ../images/Arduino.png
 published: true
 title: GotYourBack
