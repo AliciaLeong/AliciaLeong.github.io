@@ -10,4 +10,4 @@ labels:
   - Electron
 ---
 
-This semester I hope to assist in the design of [TechFolio Designer] (https://techfolios.github.io/)
+This semester I hope to assist in the design of [TechFolio Designer](https://techfolios.github.io/)
