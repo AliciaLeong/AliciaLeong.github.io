@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: false
+published: True
 image: images/scellogo.png
 title: "A More Efficient University"
 date: 2018-08-28
