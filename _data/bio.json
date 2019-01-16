@@ -4,15 +4,15 @@
     "label": "Student",
     "picture": "https://AliciaLeong.github.io/images/Profile_Photo.JPG",
     "email": "alicial8@hawaii.edu",
-    "phone": "808-393-7462",
     "website": "https://AliciaLeong.github.io",
     "summary": "I am a student at the University of Hawaii studying Computer Engineering. I enjoy learning about computer architecure and embedded systems. My expected date of graduation is December 2019.",
+    "phone": "808-393-7462",
     "location": {
       "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Hawaii",
+      "countryCode": "USA"
     },
     "profiles": [
       {
@@ -66,7 +66,11 @@
       "startDate": "2015-08-24",
       "endDate": "Present",
       "gpa": "3.66",
-      "courses": ["Digital Systems and Computer Design", "Basic Circuit Analysis", "Data Structures and Algorithms (current)", "Software Engineering 1 (current)"
+      "courses": [
+        "Digital Systems and Computer Design",
+        "Basic Circuit Analysis",
+        "Data Structures and Algorithms (current)",
+        "Software Engineering 1 (current)"
       ]
     }
   ],
@@ -93,7 +97,7 @@
       "organization": "Eta Kappa Nu",
       "position": "Member",
       "website": "http://hknhawaii.weebly.com/",
-      "summary": "An international honor society for electrical and computer engineers.",
+      "summary": "An international honor society for electrical and computer engineers."
     }
   ],
   "awards": [
