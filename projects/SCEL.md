@@ -3,7 +3,7 @@ layout: project
 type: project
 published: True
 image: images/scellogo.png
-title: "University"
+title: "A Smart Energy Campus"
 date: 2018-08-28
 labels:
   - Arduino
