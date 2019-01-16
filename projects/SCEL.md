@@ -3,7 +3,7 @@ layout: project
 type: project
 published: True
 image: images/scellogo.png
-title: "A More Efficient University"
+title: "University"
 date: 2018-08-28
 labels:
   - Arduino
