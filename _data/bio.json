@@ -35,7 +35,12 @@
       ]
     },
     {
-      "name": "Embedded Systems"
+      "name": "Embedded Systems",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "keywords": []
     }
   ],
   "skills": [
