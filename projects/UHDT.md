@@ -10,7 +10,7 @@ summary: I worked on the electrical subsystem to help build and autonomous drone
 ---
 
 ### University of Hawaii Drone Technologies
-<img class="ui centered image" src="../images/dronephoto.JPG">
+<img class="ui small centered image" src="../images/dronephoto.JPG">
 
 Imagine during a natural disaster you see a drone flying around. As it flies over you you see it drop supplies that will help you in this urgent time. University of Hawaii Drone Technologies, UHDT, is a project that strives to design a fully autonomous aerial system that can use object recognition to deliver supplies. 
 
