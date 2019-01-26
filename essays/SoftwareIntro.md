@@ -7,7 +7,7 @@ labels:
   - Computer Engineering
 ---
 ## Introduction
-I was always asked "so what do you plan to major in at college?" but, I could never answer that question. I didn't know what I wanted to study. I always felt pressured by this decision as this choice would change my life forever. When I enrolled at the University I spent some time taking general classes to see if anything appealed to me. Thats when I decided on Computer Engineering. From a young age I always wondered how a computer worked and, this was my chance to finally learn the answer to my question.
+I was always asked "so what do you plan to major in at college?" but, I could never answer that question. I didn't know what I wanted to study. I always felt pressured by this decision as this choice would change my life forever. When I enrolled at the University I spent some time taking general classes to see if anything appealed to me. Thats when I decided on Computer Engineering. From a young age I always wondered how a computer worked and this was my chance to finally learn the answer to my question.
 
 ## Step By Step
 I was excited when I took my first programming course. It made me feel cool because I could make my computer print "Hello World". I was fascinated by programming as it was challenging but when ever I got something to work it felt like like a small victory! Programming is not easy, but I enjoy doing it because of the fulfilling feeling I get when I finally overcome a problem. 
