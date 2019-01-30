@@ -6,6 +6,7 @@ date: 2019-01-18
 labels:
   - JavaScript
   - Software
+  - ICS 314
 ---
 # A Faster Way to Code
 As a student enrolled in ICS 314, one requirement was to learn JavaScript. While doing the [Introduction to JavaScript Basics](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) tutorial, I noticed that there were a lot of similarities to other coding languages. There were some features such as arrays and classes that are used in C++, that were easy to pick up on. However, there were also some differences, especially syntax wise. One thing that I noticed about JavaScript is how I no longer have to worry about types. I find it interesting that JavaScript is versatile enough to know when something is an integer and not mistake it for something else. Another thing JavaScript can do is compare an integer with a string. It is amazing to see how much syntax can differ regardless if they do the same thing. Had I known about JavaScript sooner I would have seen how efficient it can be. Learning more about JavaScript has opened my eyes into a whole new language. 
