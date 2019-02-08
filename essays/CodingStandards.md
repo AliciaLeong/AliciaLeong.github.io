@@ -13,7 +13,7 @@ labels:
 <img class="ui medium right floated image" src="../images/ESLint_logo.png">
 
 ## My Thoughts on ESLint
-In my opinion ESLint reminds me of that one aunty that you have that is very critical of everything. According to ESLint, there needs to be spaces between everything but in some areas you can't have any spaces. To me it the spacing seems trivial. It is similar to when your aunty comments on why you forgot you jacket at home when it summer. However, just like your aunty has her moments, ESLint has its benefits. While the spacing and quote guidelines seems tedious, the way ESLint has your format your code is very useful. For example if you coded the following:
+In my opinion ESLint reminds me of that one aunty that you have that is very critical of everything. According to ESLint, spacing matters and single quotes should be used rather then double quotes. It is similar to when your aunty comments your own personal style. However, just like your aunty has her moments, ESLint has its benefits. While the spacing and quote guidelines seems tedious, the way ESLint has your format your code is very useful. For example if you coded the following:
 Before ESLint:
 ```
 const temp = 'World';
