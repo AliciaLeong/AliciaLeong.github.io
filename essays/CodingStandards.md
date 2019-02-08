@@ -14,11 +14,13 @@ labels:
 
 ## My Thoughts on ESLint
 In my opinion ESLint reminds me of that one aunty that you have that is very critical of everything. According to ESLint, there needs to be spaces between everything but in some areas you can't have any spaces. To me it the spacing seems trivial. It is similar to when your aunty comments on why you forgot you jacket at home when it summer. However, just like your aunty has her moments, ESLint has its benefits. While the spacing and quote guidelines seems tedious, the way ESLint has your format your code is very useful. For example if you coded the following:
-```
 Before ESLint:
+```
 const temp = 'World';
-console.log("Hello" + temp); // using concatenation
+console.log( "Hello" + temp ); // using concatenation
+```
 After ESLint:
+```
 const temp = 'World';
 console.log(`Hello ${temp}`);// using template literals
 ```
@@ -28,4 +30,4 @@ ESLint would scold you with that red error message saying "strings must use sing
 I am currently working on a project where I must edit code that has been passes down for years. From what I can tell there is some attempt at documentation in some parts but, other parts has no formatting or documentation. Sticking to some sort of guideline here would have been very useful. I would use less time sifting though all the code trying to find that one function I need then need to translate from a different syntax. If only their aunty came to scold them on their documentation. One of our goals is to fix the code so it follows the [Google Coding Syle Guideline](https://google.github.io/styleguide/cppguide.html). This way we can help the future team have an easier time working collaboratively. 
 
 ## Last Remarks
-In conclusion, just as you love your aunty anyway, I believe that ESLint is a good thing. I have only been using it for a week and I am already seeing the benefits. I guess the spacing and quote errors are not as terrible as they seem. They make my code look more organized and readable which I respect after experiencing semi-readable code. Overall, I like that ESLint makes us standardize how some syntax is used. In the future ESLint will allow me to work more efficiently with my peers as we can collaboratively understand and work on our code.
+In conclusion, just as you love your aunty anyway, I believe that ESLint is a good thing. I have only been using it for a week and I am already seeing the benefits. I guess the spacing and quote errors are not as terrible as they seem. They make my code look more organized and readable which I respect after experiencing semi-readable code. Overall, the feature I like the most is that ESLint makes us standardize how some syntax is used. In the example code above, we now have to use template literals rather then concatenation. ESLint is forcing us to learn good coding habits which can reflect on all our code regardless if it is in JavaScript or not. In the future, ESLint will allow me to work more efficiently with my peers as we can collaboratively understand and work together.
