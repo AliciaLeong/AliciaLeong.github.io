@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: A Whole New World
 date: 2019-02-21
 labels:
