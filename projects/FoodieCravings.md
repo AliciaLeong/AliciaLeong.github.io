@@ -10,10 +10,11 @@ labels:
 summary: My team and I created a website where users get to share their reviews of food found around campus.
 ---
 # Foodie Cravings
-<img class="ui medium right floated image" src="../images/foodiecravings_landing.png">
+<img class="ui large right floated image" src="../images/foodiecravings_landing.png">
 Our team decided to create a website that would allow users to review foods around the school. The motivation for this project was to create a website that would allow people to search up different foods around campus. They would then be able to see different reviews made by people as well as the price and location. Some of the features that we were able to implement were a search bar, a favorites system, and a comments section. 
 
 You can check out the website we made [here](http://foodiecravings.meteorapp.com/#/)!
+
 Our GitHub organization can also be found [here](https://github.com/foodiecravings).
 
 ## My Role

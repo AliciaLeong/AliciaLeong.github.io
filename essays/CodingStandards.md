@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "Guidelines to Coding"
 date: 2019-02-05
 labels:

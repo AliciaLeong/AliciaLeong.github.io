@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: The Right Way to Ask a Question
 date: 2019-01-24
 labels:
